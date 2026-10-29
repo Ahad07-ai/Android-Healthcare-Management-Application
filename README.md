@@ -9,7 +9,7 @@ This project is a comprehensive healthcare Android application developed using J
 - **Lab Test Scheduling**: Users can schedule lab tests, ensuring they can manage their healthcare needs in one place.
 - **Healthcare Articles**: Integrated healthcare articles provide users with valuable and up-to-date health information.
 - **Seamless Functionality**: The app is designed to function seamlessly, ensuring a smooth user experience.
-- **User-Friendly Interface**: The interface is intuitive and easy to navigate, improving accessibility for all users.
+- **User-Friendly Interface**: The interface is intuitive and easy to navigate, improving accessibility for all users and customers.
 
 ## Technology Stack
 - **Language**: Java
